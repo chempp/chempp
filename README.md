@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou atualmente cursando faculdade de Ciência da Computação e finalizei meu primeiro ano, indo para o segundo ano da faculdade.<br>Também estou fazendo curso de desenvolvimento web.
+Estou atualmente cursando faculdade de Ciência da Computação e finalizando meu ultimo ano, indo para o segundo ano da faculdade.<br>Também estou fazendo curso de desenvolvimento web.
 
 
 ## 🌐 Socials:
